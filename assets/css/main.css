@@ -9,6 +9,10 @@
 
 /* Reset */
 
+#rsvp .content {
+	margin-bottom: 1em !important;
+}
+
 .slide.right  {
 	text-align: left !important;
 }
